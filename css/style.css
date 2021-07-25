@@ -1,0 +1,12 @@
+.table_title {
+    text-align: center;
+}
+
+.headers th {
+    color: white;
+    font-size: 20px;
+}
+
+.table_rows td {
+    font-size: 18px;
+}

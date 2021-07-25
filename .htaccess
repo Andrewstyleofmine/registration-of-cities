@@ -1,0 +1,5 @@
+<ifModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule ^$ controllers/index.php
+    RewriteRule ^(add-lot)$ controllers/add-lot.php
+</ifModule>
